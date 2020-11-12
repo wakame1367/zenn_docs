@@ -1,5 +1,5 @@
 ---
-title: "[solafune] 衛星画像から空港利用者数予測ベースモデルのEDA" # 記事のタイトル
+title: "[solafune] 衛星画像から空港利用者数予測のEDA" # 記事のタイトル
 emoji: "😸" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 topics: ["Python", "solafune"] # タグ。["markdown", "rust", "aws"]のように指定する
