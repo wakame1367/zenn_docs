@@ -77,7 +77,7 @@ for k, v in duplicates.items():
 
 出力結果ですがだいぶ長くなってしまったので折り畳んであります、表示する際は気をつけてください。
 
-<details><summary>上記コードの出力結果(クリックすると展開されます)</summary>
+<details><summary>上記コードの出力結果(クリックすると展開されます)</summary><div>
 
 ```
 train_14.jpg ['train_11.jpg', 'train_13.jpg', 'train_15.jpg', 'train_10.jpg', 'train_12.jpg']
@@ -167,7 +167,7 @@ test_9.jpg ['test_10.jpg']
 comp_7.jpg ['comp_8.jpg', 'comp_9.jpg']
 ```
 
-</details>
+</div></details>
 
 ## imagededupを利用した画像類似度比較②
 
@@ -191,7 +191,7 @@ for k, v in duplicates.items():
 
 出力結果ですがこちらも同様にだいぶ長くなってしまったので折り畳んであります、表示する際は気をつけてください。
 
-<details><summary>上記コードの出力結果(クリックすると展開されます)</summary>
+<details><summary>上記コードの出力結果(クリックすると展開されます)</summary><div>
 
 ```
    file_name  user_count
@@ -424,7 +424,7 @@ for k, v in duplicates.items():
 10  test_10.jpg     2381354
 ```
 
-</details>
+</div></details>
 
 ## imagededupを利用した画像類似度比較③
 
