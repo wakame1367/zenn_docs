@@ -33,7 +33,7 @@ cmp.plot(cmap=plt.cm.Blues)
 
 ```
 
-結果はこんな感じ。
+結果はこんな感じ、便利。
 
 ![ダウンロード.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/40310/d565406a-b5f0-c0d0-db0a-a842be60abd3.png)
 
