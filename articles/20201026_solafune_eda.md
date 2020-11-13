@@ -430,6 +430,8 @@ for k, v in duplicates.items():
 
 最後に実際の類似画像を表示してみます。結果を載せたかったのですが上記の結果同様、大量の画像ファイルを貼り付けることになるので断念しました。結果は[GoogleColabratory - image_similarity.ipynb](https://colab.research.google.com/drive/1EJnYEzrhX4ctc1kWlXm_xWRz3FxlnzhJ?usp=sharing)を参照してください。
 
+出力結果とひとつ前の結果から類似画像は同じ空港を撮影したものであり、撮影時期や撮影した時間帯が異なる画像であることがわかります。
+
 ```python
 from imagededup.utils import plot_duplicates
 
@@ -439,6 +441,7 @@ for k, v in duplicates.items():
                     duplicate_map=duplicates, 
                     filename=k)
 ```
+
 
 # まとめ
 - `trainimage.zip` / `testimage.zip` / `evaluatemodel.zip`各フォルダ毎に類似画像が存在する
