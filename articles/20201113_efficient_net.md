@@ -1,5 +1,5 @@
 ---
-title: "sklearn.metrics.ConfusionMatrixDisplayを使った混合行列の可視化" # 記事のタイトル
+title: "EfficientNetを最速で試す方法" # 記事のタイトル
 emoji: "😸" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 topics: ["Python", "tensorflow"] # タグ。["markdown", "rust", "aws"]のように指定する
