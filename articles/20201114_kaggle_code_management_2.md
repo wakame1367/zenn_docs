@@ -2,8 +2,8 @@
 title: "KaggleへのサブミットをGithub Actionsを使って自動化する" # 記事のタイトル
 emoji: "🤔" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "tech" # tech: 技術記事 / idea: アイデア記事
-topics: ["Python", "Kaggle"] # タグ。["markdown", "rust", "aws"]のように指定する
-published: false # 公開設定（falseにすると下書き）
+topics: ["Python", "Kaggle", "githubactions"] # タグ。["markdown", "rust", "aws"]のように指定する
+published: true # 公開設定（falseにすると下書き）
 ---
 
 # はじめに
