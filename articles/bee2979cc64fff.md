@@ -3,7 +3,7 @@ title: "GitHub Organizationの通知先の追加および変更方法"
 emoji: "🔔"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["GitHub", "Tech", "メール"]
-published: false
+published: true
 ---
 
 # はじめに
